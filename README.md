@@ -1,0 +1,2 @@
+# 23-of-30-Days-Js-Challenge-DOM-Project-2
+# 23-of-30-Days-Js-Challenge-DOM-Project-2  A 30 days Js Challenge created by &lt;a href="https://www.linkedin.com/in/asabeneh/" target="blank">Asabeneh Yetayeh&lt;/a>.  ## Number Generator  This DOM project generate numbers and marking evens, odds and prime numbers with three different colors.  ## Go Live  &lt;a href="https://tituz175.github.io/23-of-30-Days-Js-Challenge-DOM-Project-1/" target="_blank">Click Me&lt;/a>
