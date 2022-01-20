@@ -1,6 +1,6 @@
 # 23-of-30-Days-Js-Challenge-DOM-Project-2
 
-A 30 days Js Challenge created by <a href="https://www.linkedin.com/in/asabeneh/" target="blank">Asabeneh Yetayeh&lt</a>.
+A 30 days Js Challenge created by <a href="https://www.linkedin.com/in/asabeneh/" target="blank">Asabeneh Yetayeh</a>.
 
 ## Even listener.
 
