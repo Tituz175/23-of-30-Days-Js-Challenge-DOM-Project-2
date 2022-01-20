@@ -2,10 +2,10 @@
 
 A 30 days Js Challenge created by <a href="https://www.linkedin.com/in/asabeneh/" target="blank">Asabeneh Yetayeh&lt</a>.
 
-## Number Generator
+## Even listener.
 
-This DOM project generate numbers and marking evens, odds and prime numbers with three different colors.
+Generating the keyboard code code using even listener.
 
 ## Go Live
 
-<a href="https://tituz175.github.io/23-of-30-Days-Js-Challenge-DOM-Project-1/" target="_blank">Click Me</a>
+<a href="https://tituz175.github.io/23-of-30-Days-Js-Challenge-DOM-Project-2/" target="_blank">Click Me</a>
